@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/flexbox-javascript-4m_mM9KV7O)
+- Live Site URL: [Live site](https://newsletter-sign-up-with-success-message-roan.vercel.app/)
 
 ## My process
 
