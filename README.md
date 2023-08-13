@@ -33,13 +33,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot.jpg)
+![](Screenshot.jpg)
 
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/flexbox-javascript-4m_mM9KV7O)
-- Live Site URL: [Live site](https://newsletter-sign-up-with-success-message-roan.vercel.app/)
+- [Solution URL](https://www.frontendmentor.io/solutions/flexbox-javascript-4m_mM9KV7O)
+- [Live site](https://newsletter-sign-up-with-success-message-roan.vercel.app/)
 
 ## My process
 
@@ -84,6 +84,6 @@ I'll like to learn more about Sass!.
 
 - Website - [Chinaemerem](https://www.your-site.com)
 - Frontend Mentor - [chinaemerem-aneke](https://www.frontendmentor.io/profile/chinaemerem-aneke)
-- Twitter - [@yourusername](https://www.twitter.com/a_chinaemerem)
+- Twitter - [@ya_chinaemerem](https://www.twitter.com/a_chinaemerem)
 
 
