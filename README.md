@@ -84,6 +84,6 @@ I'll like to learn more about Sass!.
 
 - Website - [Chinaemerem](https://www.your-site.com)
 - Frontend Mentor - [chinaemerem-aneke](https://www.frontendmentor.io/profile/chinaemerem-aneke)
-- Twitter - [@ya_chinaemerem](https://www.twitter.com/a_chinaemerem)
+- Twitter - [@a_chinaemerem](https://www.twitter.com/a_chinaemerem)
 
 
