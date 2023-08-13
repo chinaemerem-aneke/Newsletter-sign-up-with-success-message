@@ -118,7 +118,7 @@ img {
 }
 
 .error__msg {
-    color: inherit;
+    color: var(--clr-tomato);
     float: right;
 }
 
